@@ -9,6 +9,27 @@ That does not mean it knows what the interface is supposed to do.
 
 This starter kit helps you define the user outcome, scope, constraints, states, and acceptance criteria before asking an AI agent to design or implement a product experience.
 
+## How to use this
+
+This starter kit is meant to help you brief AI before it designs or implements product experiences.
+
+You can use it in three ways:
+
+1. Use the UX Spec Template before prompting AI
+2. Add the Cursor rule to your project
+3. Ask your AI agent to check its work against the acceptance criteria
+
+---
+
+## Option 1: Use the UX Spec Template
+
+Start by copying the UX Spec Template into a new Markdown file.
+
+Recommended location:
+
+```txt
+docs/ux-specs/[feature-name].md
+
 ## Why this exists
 
 AI-generated design work can look polished while still being wrong.
