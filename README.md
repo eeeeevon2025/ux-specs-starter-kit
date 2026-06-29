@@ -1,4 +1,4 @@
-# ux-specs-starter-kit
+
 # Spec-Driven UX Starter Kit
 
 A lightweight starter kit for designers, product teams, and AI-assisted builders who want to stop asking AI to design from vague intent.
